@@ -1,0 +1,16 @@
+E:\projects\Git\live-chat-app\DesktopChat\DesktopChat\bin\Debug\DesktopChat.exe.config
+E:\projects\Git\live-chat-app\DesktopChat\DesktopChat\bin\Debug\DesktopChat.exe
+E:\projects\Git\live-chat-app\DesktopChat\DesktopChat\bin\Debug\DesktopChat.pdb
+E:\projects\Git\live-chat-app\DesktopChat\DesktopChat\obj\Debug\DesktopChat.csproj.AssemblyReference.cache
+E:\projects\Git\live-chat-app\DesktopChat\DesktopChat\obj\Debug\DesktopChat.csproj.SuggestedBindingRedirects.cache
+E:\projects\Git\live-chat-app\DesktopChat\DesktopChat\obj\Debug\MainWindow.g.cs
+E:\projects\Git\live-chat-app\DesktopChat\DesktopChat\obj\Debug\App.g.cs
+E:\projects\Git\live-chat-app\DesktopChat\DesktopChat\obj\Debug\DesktopChat_MarkupCompile.cache
+E:\projects\Git\live-chat-app\DesktopChat\DesktopChat\obj\Debug\DesktopChat_MarkupCompile.lref
+E:\projects\Git\live-chat-app\DesktopChat\DesktopChat\obj\Debug\MainWindow.baml
+E:\projects\Git\live-chat-app\DesktopChat\DesktopChat\obj\Debug\DesktopChat.g.resources
+E:\projects\Git\live-chat-app\DesktopChat\DesktopChat\obj\Debug\DesktopChat.Properties.Resources.resources
+E:\projects\Git\live-chat-app\DesktopChat\DesktopChat\obj\Debug\DesktopChat.csproj.GenerateResource.cache
+E:\projects\Git\live-chat-app\DesktopChat\DesktopChat\obj\Debug\DesktopChat.csproj.CoreCompileInputs.cache
+E:\projects\Git\live-chat-app\DesktopChat\DesktopChat\obj\Debug\DesktopChat.exe
+E:\projects\Git\live-chat-app\DesktopChat\DesktopChat\obj\Debug\DesktopChat.pdb
