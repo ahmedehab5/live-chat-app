@@ -70,7 +70,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\Chat.cs" />
-    <Compile Include="Models\Contacts.cs" />
+    <Compile Include="Models\Contact.cs" />
     <Compile Include="Models\GroupChat.cs" />
     <Compile Include="Models\Message.cs" />
     <Compile Include="Models\User.cs" />

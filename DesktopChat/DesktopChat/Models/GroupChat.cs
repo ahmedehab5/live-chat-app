@@ -8,5 +8,8 @@ namespace DesktopChat.Models
 {
     internal class GroupChat
     {
+        private int id;
+        private int[] membersId;
+        private Message[] messages;
     }
 }

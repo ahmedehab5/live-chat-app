@@ -8,5 +8,11 @@ namespace DesktopChat.Models
 {
     internal class Message
     {
+        private int id;
+        private string message;
+        private DateTime dateTime;
+        private bool isSent;
+        private bool isSeen;
+        private int senderId;
     }
 }

@@ -8,5 +8,9 @@ namespace DesktopChat.Models
 {
     internal class Chat
     {
+        private int id;
+        private Message[] messages;
+        private int mem1Id;
+        private int mem2Id;
     }
 }

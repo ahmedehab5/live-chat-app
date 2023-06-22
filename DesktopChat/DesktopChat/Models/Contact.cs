@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace DesktopChat.Models
 {
-    internal class Contacts
+    internal class Contact
     {
+        private int id;
+        private string name;
+        private string image;
     }
 }
